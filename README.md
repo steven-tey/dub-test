@@ -28,7 +28,7 @@
 
 ## Introduction
 
-Dub.co is the open-source link management infrastructure for modern marketing teams.
+Edit Thumbnail is the open-source link management infrastructure for modern marketing teams.
 
 ## Features
 
